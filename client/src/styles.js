@@ -14,5 +14,13 @@ export default makeStyles(() => ({
     },
     image: {
         marginLeft: '15px',
+        width: '60px'
     },
+    div: {
+        alignItems: 'center',
+        display: 'flex',
+        justifyContent: 'center'
+    }
 }));
+
+// https://gist.github.com/adrianhajdin/d99aaa67124f0de7667fd3937715fb26
